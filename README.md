@@ -7,7 +7,7 @@ Hotel mangenment system help us to know all the data of guests at the hotel
 ## ```Programming languages :```
 * [C++]
 
-## ```Main function by using file proceesing :``` <br>
+## ```Main function by using file :``` 
 1. Write data in file.
 2. Read data from file.
 3. Update data in file.
